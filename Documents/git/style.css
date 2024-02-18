@@ -1,0 +1,20 @@
+body{
+ background-image: url(git.png);
+}
+
+h1{
+    text-align: center;
+    color: skyblue;
+    border-radius: 50px;
+}
+
+
+h2{
+	color: orange;
+	font-size: 500%;
+	text-align: center;
+}
+
+div{
+	text-align: center;
+ }
