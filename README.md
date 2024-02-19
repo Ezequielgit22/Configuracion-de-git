@@ -1,1 +1,1 @@
-# configuraci-n-de-git
+# Configuracion-de-git
